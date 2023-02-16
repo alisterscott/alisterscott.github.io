@@ -1,4 +1,4 @@
-# Approval Testing</strong>
+# Approval Testing
 
 - Test behaviour not code
 - If behaviour isn't simple, stable and well defined, don't use assertions
