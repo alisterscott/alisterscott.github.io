@@ -3,7 +3,7 @@
 - TOC
   {:toc}
 
-Content
+# Content
 
 1. Automated Testing
    1. [Approval Testing](/Automatede2eTesting/ApprovalTesting.md)
