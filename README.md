@@ -12,3 +12,4 @@
    4. [Parallel Execution](/Automatede2eTesting//ParallelExecution.md)
    5. [Separate or Same Code Repository](/Automatede2eTesting//SameCodeRepository.md)
    6. [Specification by Example: a Love Story](/Automatede2eTesting//SpecificationByExample.md)
+   7. [Example Repositories](/Automatede2eTesting/ExampleRepos.md)
