@@ -2,4 +2,4 @@
 
 In 2011 I wrote this short essay on how to use Specification by Example which became quite popular. Here it is for reference:
 
-[Download PDF here](/Automatede2eTesting//Specification-by-Example-a-love-story.pdf)
+[Download PDF here](/media/Specification-by-Example-a-love-story.pdf)
