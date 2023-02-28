@@ -1,6 +1,6 @@
 # Philosophy
 
-- Placeholder for Table of Content (Must not be removed) <newline> {:toc}
+{:toc}
 
 ## Always do your best
 
