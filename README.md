@@ -1,8 +1,5 @@
 # Welcome
 
-- TOC
-  {:toc}
-
 # Content
 
 1. Automated e2e Testing
