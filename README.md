@@ -1,6 +1,6 @@
 # Welcome
 
-# Content
+## Content
 
 1. Automated e2e Testing
    1. [Approval Testing](/Automatede2eTesting//ApprovalTesting.md)
