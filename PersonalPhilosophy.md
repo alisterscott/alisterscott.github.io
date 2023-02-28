@@ -1,5 +1,7 @@
 # Philosophy
 
+- Placeholder for Table of Content (Must not be removed) <newline> {:toc}
+
 ## Always do your best
 
 ![](/media/try-to-do-the-best.jpg)
