@@ -20,7 +20,7 @@ This is because b) has a higher level of entropy, even though it is far easier t
 
 This [cartoon](https://xkcd.com/936/) explains this really well (and shows where I got the passwords!) and explains how we've trained everyone to use the wrong passwords!
 
-[![password_strength](/media/password_strength.png)
+![password_strength](/media/password_strength.png)
 
 There's a few things to remember about passwords:
 

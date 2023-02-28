@@ -1,6 +1,6 @@
 # Welcome
 
-[![watermelon](/media/watermelon.png)
+<img src="/media/watermelon.png" alt= “” width="400" height="400">
 
 ## Content
 
