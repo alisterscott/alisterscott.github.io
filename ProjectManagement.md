@@ -84,17 +84,15 @@ So, we develop software _iteratively_ and release _incrementally_ in various siz
 
 #### Scenarios / Examples
 
-| Scenario                                                                                | Royalties Owed | Current Royalties Paid                                                  | New Royalties Paid                             | Testing |
-| --------------------------------------------------------------------------------------- | -------------- | ----------------------------------------------------------------------- | ---------------------------------------------- | ------- |
-| Single artist gets 100% of whole payments                                               | $100.00        | $100.00                                                                 | $100.00                                        | ✅      |
-| Single artist gets 100% of payments including cents                                     | $66.67         | $66.67                                                                  | $66.67                                         | ✅      |
-| Two artists with 50% each for a payment that can be split evenly                        | $100.00        | artist 1: $50.00, artist 2: $50.00                                      | $50.00                                         | ✅      |
-| Two artists with 50% each for a payment that can't be split evenly                      | $100.01        | $50.01 $50.00 is randomly assigned to artist1/artist2                   | artist 1 $50.01, artist 2 $50.00               | ❌      |
-| Two artists with 50% each for a payment that can be rounded to ten cents -- no rounding | $100.30        | artist 1: $50.15, artist 2: $50.30                                      | artist 1: $50.15 artist 2: $50.30              | ✅      |
-| Three artists with third splits can't be split                                          | $100.00        | amounts of $33.33, $33.33 and $33.34 randomly assigned to group members | artist 1: $33.34, artist 2: $33.33, artist 3:  |
-| $33.33                                                                                  | ❌             |
-| Three artists with third splits can't be split -- more than a single cent difference    | $100.00        | amounts of $33.33, $33.34 and $33.34 randomly assigned to group members | artist 1: $33.34, artist 2: $33.34\, artist 3: |
-| $33.33                                                                                  | ❌             |
+| Scenario                                                                                | Royalties Owed | Current Royalties Paid                                                  | New Royalties Paid                                    | Testing |
+| --------------------------------------------------------------------------------------- | -------------- | ----------------------------------------------------------------------- | ----------------------------------------------------- | ------- |
+| Single artist gets 100% of whole payments                                               | $100.00        | $100.00                                                                 | $100.00                                               | ✅      |
+| Single artist gets 100% of payments including cents                                     | $66.67         | $66.67                                                                  | $66.67                                                | ✅      |
+| Two artists with 50% each for a payment that can be split evenly                        | $100.00        | artist 1: $50.00, artist 2: $50.00                                      | $50.00                                                | ✅      |
+| Two artists with 50% each for a payment that can't be split evenly                      | $100.01        | $50.01 $50.00 is randomly assigned to artist1/artist2                   | artist 1 $50.01, artist 2 $50.00                      | ❌      |
+| Two artists with 50% each for a payment that can be rounded to ten cents -- no rounding | $100.30        | artist 1: $50.15, artist 2: $50.30                                      | artist 1: $50.15 artist 2: $50.30                     | ✅      |
+| Three artists with third splits can't be split                                          | $100.00        | amounts of $33.33, $33.33 and $33.34 randomly assigned to group members | artist 1: $33.34, artist 2: $33.33, artist 3: $33.33  | ❌      |
+| Three artists with third splits can't be split -- more than a single cent difference    | $100.00        | amounts of $33.33, $33.34 and $33.34 randomly assigned to group members | artist 1: $33.34, artist 2: $33.34\, artist 3: $33.33 | ❌      |
 
 #### Business Rules
 
