@@ -3,7 +3,7 @@
 <nav>
   <h4>Table of Contents</h4>
   * this unordered seed list will be replaced by toc as unordered list
-  {:toc}
+  {:toc toc_levels=2}
 </nav>
 
 ## Always do your best
