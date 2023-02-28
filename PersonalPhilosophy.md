@@ -1,6 +1,7 @@
 # Philosophy
 
-{:toc}
+- TOC
+  {:toc}
 
 ## Always do your best
 
