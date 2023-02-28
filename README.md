@@ -2,7 +2,7 @@
 
 # Welcome
 
-<img src="media/watermelon.png" alt= “” width="400" height="400">
+![watermelon](/media/watermelon.png)
 
 ## Content
 
