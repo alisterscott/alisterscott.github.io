@@ -1,3 +1,5 @@
+ <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+
 # Welcome
 
 <img src="media/watermelon.png" alt= “” width="400" height="400">
