@@ -22,4 +22,5 @@
 7. [Personal Philosophy](/PersonalPhilosophy.md)
 8. [Public Speaking](/PublicSpeaking.md)
 9. [Quality Advocate](/QualityAdvocate.md)
-10. [Software Project Management](ProjectManagement.md)
+10. [Software Project Management](/ProjectManagement.md)
+11. [Software Testing Career Development](/SoftwareTestingCareerDevelopment.md)
