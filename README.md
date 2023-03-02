@@ -24,3 +24,4 @@
 9. [Quality Advocate](/QualityAdvocate.md)
 10. [Software Project Management](/ProjectManagement.md)
 11. [Software Testing Career Development](/SoftwareTestingCareerDevelopment.md)
+12. [Testing Pyramids & Ice Cream Cones](/TestingPyramids.md)
