@@ -1,6 +1,6 @@
 # All Things Testing Brisbane Presentation
 
-# 🎭 Playwright for Automated API and Web Testing
+# 🎭 Playwright for Automated API and Web Testing 🎭
 
 ## Welcome
 
@@ -22,11 +22,11 @@ Presentation online
 2. Keep it raised if you've used Playwright before
 3. Keep it raised if you're currently using Playwright in your day job
 
-## A bit about Playwright
+## A bit about [Playwright](https://playwright.dev/)
 
 ![Test tool evolution](/media/toolevolution.png)
 
-https://playwright.dev/
+[Original Image Creative Commons](https://commons.wikimedia.org/w/index.php?curid=2165296)
 
 - Open source library backed by Microsoft spawned from Puppeteer
 - Supports Chrome, Edge, Firefox & Safari
