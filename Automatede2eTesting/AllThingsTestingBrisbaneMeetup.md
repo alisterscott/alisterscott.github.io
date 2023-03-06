@@ -2,6 +2,10 @@
 
 ## Welcome
 
+Presentation online
+
+![qr code](/media/qrcode_presentation.png)
+
 ## A bit about me:
 
 - Test Engineer at Translink
