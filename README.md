@@ -14,6 +14,7 @@
    5. [Separate or Same Code Repository](/Automatede2eTesting//SameCodeRepository.md)
    6. [Specification by Example: a Love Story](/Automatede2eTesting//SpecificationByExample.md)
    7. [Example Repositories](/Automatede2eTesting/ExampleRepos.md)
+   8. [All Things Testing Brisbane Meetup Presentation](/Automatede2eTesting/AllThingsTestingBrisbaneMeetup.md)
 2. [Code Coverage](/CodeCoverage.md)
 3. [Computer Security Tips](/ComputerSecurity.md)
 4. [Leadership](/Leadership.md)
