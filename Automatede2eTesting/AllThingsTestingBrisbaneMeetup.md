@@ -2,6 +2,12 @@
 
 # 🎭 Playwright for Automated API and Web Testing 🎭
 
+<nav>
+  <h4>Table of Contents</h4>
+  * this unordered seed list will be replaced by toc as unordered list
+  {:toc}
+</nav>
+
 ## Welcome
 
 Presentation online
@@ -92,6 +98,8 @@ test('can record a video of form interaction', async ({}) => {
 
 Calling APIs is as easy as controlling a browser:
 
+### API Testing (Assertion Style)
+
 ```
 import { test, expect } from '@playwright/test';
 
@@ -108,6 +116,8 @@ test('can GET a REST API and check response using assertion style', async ({ req
   expect(body[2].title).toBe('Cats')
 })
 ```
+### API Testing (Approval Style)
+
 
 You can also do 'approval' style testing where you store a snapshot of the response in your source code, and your test fails if this changes:
 
