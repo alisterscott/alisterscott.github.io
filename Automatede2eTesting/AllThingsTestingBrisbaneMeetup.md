@@ -10,7 +10,7 @@ Presentation online
 
 ## A bit about me:
 
-- Test Engineer at Translink
+- Test Engineer at ~~Aurion~~ Translink
 - Artist [@juicedpixelsart](https://www.instagram.com/juicedpixelsart/)
 - Volunteer at eWaste Connection
 
