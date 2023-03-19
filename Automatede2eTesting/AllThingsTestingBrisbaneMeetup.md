@@ -176,6 +176,8 @@ where `post.txt` is generated on first run to contain:
 
 `npx playwright show-report`
 
+[You can even host these on GitHub Pages](/Automatede2eTesting/playwright-report/index.html)
+
 ## That's all folks
 
 alister.scott at gmail.com
