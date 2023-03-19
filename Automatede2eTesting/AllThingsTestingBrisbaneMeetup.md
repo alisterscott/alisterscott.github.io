@@ -32,5 +32,38 @@ Presentation online
 - Supports Chrome, Edge, Firefox & Safari
 - Supports Node.js, Python, Java & .NET
 - Web API and Browser Automation
+- Automatic waiting for everything - very rare to have to write a wait statement 😊
+- Full parallel test execution support inc. locally
 - Actively growing community and features
+- Official VSCode extension with full debugging capability
 - I have used for over 2 years on 2 different projects with _great success_
+
+## Playwright 101 - Playwright Test in Node 
+
+```
+import { test, expect } from '@playwright/test';
+
+test('this presentation has a title', async ({ page }) => {
+  await page.goto('https://alisterscott.github.io/Automatede2eTesting/AllThingsTestingBrisbaneMeetup');
+  const title = page.locator('#all-things-testing-brisbane-presentation');
+  await page.screenshot({ path: 'webpage.png' });
+  await expect(title).toHaveText('All Things Testing Brisbane Presentation');
+});
+```
+
+▶️ run this here: [https://try.playwright.tech/?l=playwright-test&s=cnsqj5b](https://try.playwright.tech/?l=playwright-test&s=cnsqj5b)
+
+## Recording video and interacting with elements
+
+### Example Form
+
+<form>
+  <label for="fname">First name:</label>
+  <input type="text" id="fname" name="fname"><br><br>
+  <label for="lname">Last name:</label>
+  <input type="text" id="lname" name="lname"><br><br>
+  <input type="submit" value="Submit">
+</form>
+
+### Test
+
