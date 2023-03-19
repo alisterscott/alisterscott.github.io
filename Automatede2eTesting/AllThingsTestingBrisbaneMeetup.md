@@ -32,7 +32,7 @@ Presentation online
 
 ## A bit about [Playwright](https://playwright.dev/)
 
-![Test tool evolution](/media/toolevolution.png)
+![Test tool evolution](/media/toolevolution.jpg)
 
 [Original Image Creative Commons](https://commons.wikimedia.org/w/index.php?curid=2165296)
 
