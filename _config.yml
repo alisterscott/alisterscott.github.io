@@ -7,3 +7,6 @@ minima:
   skin: dark
 header_pages:
   - README.md
+author:
+  name: Alister Scott
+  email: "alister.scott@gmail.com"
