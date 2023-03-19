@@ -92,4 +92,53 @@ test('can record a video of form interaction', async ({}) => {
 
 Calling APIs is as easy as controlling a browser:
 
+```
+import { test, expect } from '@playwright/test';
+
+test('can GET a REST API and check response using assertion style', async ({ request }) => {
+  const response = await request.get('https://my-json-server.typicode.com/alisterscott/alisterscott.github.io/posts')
+  expect(response.status()).toBe(200)
+  const body = JSON.parse(await response.text())
+  expect(body.length).toBe(3)
+  expect(body[0].id).toBe(1)
+  expect(body[0].title).toBe('Aardvarks')
+  expect(body[1].id).toBe(2)
+  expect(body[1].title).toBe('Baboons')
+  expect(body[2].id).toBe(3)
+  expect(body[2].title).toBe('Cats')
+})
+```
+
+You can also do 'approval' style testing where you store a snapshot of the response in your source code, and your test fails if this changes:
+
+```
+import { test, expect } from '@playwright/test';
+
+test('can GET a REST API and check response using assertion style', async ({ request }) => {
+  const response = await request.get('https://my-json-server.typicode.com/alisterscott/alisterscott.github.io/posts')
+  await expect(response, `Response: ${await response.text()}`).toBeOK()
+  const body = await response.text()
+  expect(body).toMatchSnapshot('post.txt')
+})
+```
+
+where `post.txt` is generated on first run to contain:
+
+```
+[
+  {
+    "id": 1,
+    "title": "Aardvarks"
+  },
+  {
+    "id": 2,
+    "title": "Baboons"
+  },
+  {
+    "id": 3,
+    "title": "Cats"
+  }
+]
+```
+
 
