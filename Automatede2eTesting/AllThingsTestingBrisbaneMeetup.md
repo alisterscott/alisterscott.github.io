@@ -1,6 +1,4 @@
-+---
-+title: “All Things Testing Brisbane Presentation”
-+---
+# All Things Testing Brisbane Presentation
 
 ## 🎭 Playwright for Automated API and Web Testing 🎭
 
