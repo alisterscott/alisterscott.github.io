@@ -4,3 +4,4 @@ kramdown:
   toc_levels: 2..6
 minima:
   skin: dark
+prefers-color-scheme: true
