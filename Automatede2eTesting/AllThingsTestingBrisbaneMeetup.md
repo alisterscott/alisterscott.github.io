@@ -153,23 +153,29 @@ where `post.txt` is generated on first run to contain:
 ]
 ```
 
-### But wait, there's more 
+## But wait, there's more 
 
-#### Test Recorder
+### Test Recorder
 
 `npx playwright codegen https://alisterscott.github.io/Automatede2eTesting/AllThingsTestingBrisbaneMeetup`
 
 ![codegen](/media/codegen.gif)
 
-#### Trace Viewer
+### Trace Viewer
 
 `npx playwright test --trace on`
 `npx playwright show-trace trace.zip`
 
 ![viewtrace](/media/trace.gif)
 
-[zipfile](/media/trace.zip)
+[raw zipfile](/media/trace.zip)
 
+[view the trace on Playwright Trace](https://trace.playwright.dev/?trace=https://alisterscott.github.io/media/trace.zip)
 
+### HTML Report with trace
 
+`npx playwright show-report`
 
+## That's all folks
+
+alister.scott at gmail.com
