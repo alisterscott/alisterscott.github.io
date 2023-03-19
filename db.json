@@ -1,0 +1,31 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "title": "Aardvarks"
+        },
+        {
+            "id": 2,
+            "title": "Baboons"
+        },
+        {
+            "id": 3,
+            "title": "Cats"
+        }
+    ],
+    "comments": [
+        {
+            "id": 1,
+            "body": "I love monkeys",
+            "postId": 2
+        },
+        {
+            "id": 2,
+            "body": "I don't like cats",
+            "postId": 3
+        }
+    ],
+    "profile": {
+        "name": "Wally"
+    }
+}

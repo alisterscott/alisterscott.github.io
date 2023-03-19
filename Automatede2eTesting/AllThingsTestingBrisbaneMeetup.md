@@ -34,6 +34,7 @@ Presentation online
 - Web API and Browser Automation
 - Automatic waiting for everything - very rare to have to write a wait statement 😊
 - Full parallel test execution support inc. locally
+- Headless by default but can run 'headed' and doesn't take over your computer
 - Actively growing community and features
 - Official VSCode extension with full debugging capability
 - I have used for over 2 years on 2 different projects with _great success_
@@ -66,4 +67,29 @@ test('this presentation has a title', async ({ page }) => {
 </form>
 
 ### Test
+
+```
+import { test, chromium } from '@playwright/test';
+
+test('can record a video of form interaction', async ({}) => {
+  const browser = await chromium.launch({ slowMo: 2000 });
+  const context = await browser.newContext({
+    recordVideo: {
+      dir: 'videos/'
+    }
+  });
+  const page = await context.newPage();
+  await page.goto('https://alisterscott.github.io/Automatede2eTesting/AllThingsTestingBrisbaneMeetup');
+  await page.getByLabel('First name:').fill('Horsey');
+  await page.getByLabel('Last name:').fill('Hippo');
+  await page.getByRole('button', { name: 'Submit' }).click();
+  await context.close();
+});
+```
+▶️ run this here: [https://try.playwright.tech/?l=playwright-test&s=91ho6pk](https://try.playwright.tech/?l=playwright-test&s=91ho6pk)
+
+## API Testing
+
+Calling APIs is as easy as controlling a browser:
+
 
