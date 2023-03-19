@@ -2,6 +2,7 @@ markdown: kramdown
 kramdown:
   parse_block_html: true
   toc_levels: 2..6
+remote_theme: jekyll/minima
 minima:
   skin: dark
 prefers-color-scheme: true
