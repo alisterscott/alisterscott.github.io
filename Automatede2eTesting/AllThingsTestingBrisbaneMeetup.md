@@ -14,7 +14,7 @@ Presentation online
 
 ![qr code](/media/qrcode_presentation.png)
 
-## A bit about me:
+## A bit about me
 
 - Test Engineer at ~~Aurion~~ Translink
 - Artist [@juicedpixelsart](https://www.instagram.com/juicedpixelsart/)
@@ -22,7 +22,7 @@ Presentation online
 
 ![juiced pixels](/media/juicedpixels.png)
 
-## A bit about you:
+## A bit about you?
 
 1. Raise your hand if you're heard of Playwright
 2. Keep it raised if you've used Playwright before
