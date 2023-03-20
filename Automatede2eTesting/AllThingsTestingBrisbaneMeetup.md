@@ -178,6 +178,12 @@ where `post.txt` is generated on first run to contain:
 
 [You can even host these on GitHub Pages](/Automatede2eTesting/playwright-report/index.html)
 
+## Getting Started
+
+1. [Download Visual Studio Code (free)](https://code.visualstudio.com/)
+2. [Install the Playwright VS Code Extension](https://marketplace.visualstudio.com/items?itemName=ms-playwright.playwright)
+3. Use command palette to install Playwright/Browsers and Generate your First Test 😊
+
 ## That's all folks
 
 alister.scott at gmail.com
