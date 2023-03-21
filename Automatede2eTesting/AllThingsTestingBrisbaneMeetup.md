@@ -54,13 +54,13 @@ import { test, expect } from '@playwright/test';
 
 test('this presentation has a title', async ({ page }) => {
   await page.goto('https://alisterscott.github.io/Automatede2eTesting/AllThingsTestingBrisbaneMeetup');
-  const title = page.locator('#all-things-testing-brisbane-presentation');
+  const title = page.locator('.post-title');
   await page.screenshot({ path: 'webpage.png' });
   await expect(title).toHaveText('All Things Testing Brisbane Presentation');
 });
 ```
 
-▶️ run this here: [https://try.playwright.tech/?l=playwright-test&s=cnsqj5b](https://try.playwright.tech/?l=playwright-test&s=cnsqj5b)
+▶️ run this here: [https://try.playwright.tech/?l=playwright-test&s=f2v4sb9](https://try.playwright.tech/?l=playwright-test&s=f2v4sb9)
 
 ## Recording video and interacting with elements
 
