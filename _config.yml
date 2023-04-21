@@ -4,7 +4,7 @@ kramdown:
   toc_levels: 2..6
 remote_theme: jekyll/minima
 minima:
-  skin: dark
+  skin: auto
 header_pages:
   - README.md
 author:
