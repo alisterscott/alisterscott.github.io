@@ -1,3 +1,7 @@
+---
+title: Leadership
+---
+
 ## On Teams
 
 > "A team is not a group of people who work together. A team is a group of people who trust each other"

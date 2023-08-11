@@ -1,3 +1,7 @@
+---
+title: Parallel Execution
+---
+
 One of the best ways to speed up your end-to-end (e2e) tests is to start running them in parallel.
 
 The main issue I see that prevents teams from fully using parallelism for their e2e tests is lack of test design. Without adequately designed e2e tests -- which have been designed to be run in parallel -- parallelism can introduce non-deterministic and inconsistent test results -- leading to frustration and low-confidence in the e2e tests.

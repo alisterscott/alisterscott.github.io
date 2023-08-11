@@ -1,4 +1,6 @@
-# QA: Quality Advocate
+---
+title:  QA: Quality Advocate
+---
 
 > "Quality is not an act, it is a habit."
 >

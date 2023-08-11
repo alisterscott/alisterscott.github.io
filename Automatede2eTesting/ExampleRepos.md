@@ -1,4 +1,6 @@
-# Example Repositories
+---
+title: Example Repositories
+---
 
 ## Playwright
 

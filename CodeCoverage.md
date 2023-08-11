@@ -1,4 +1,8 @@
-# 100% Code Coverage?
+---
+title:  Code Coverage
+---
+
+## 100% Code Coverage?
 
 Which codebase is better?
 

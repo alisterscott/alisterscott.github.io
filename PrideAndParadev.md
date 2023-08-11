@@ -1,4 +1,6 @@
-# Book: Pride and Paradev
+---
+title:  Pride and Paradev Book
+---
 
 In 2013 I published a short eBook on Leanpub about software testing called Pride and Paradev.
 

@@ -1,4 +1,6 @@
-# Testing Strategies
+---
+title:  Testing Strategies
+---
 
 ### Agile Testing QA Manifesto
 

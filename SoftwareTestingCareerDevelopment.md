@@ -1,4 +1,6 @@
-# Software Testing Career Development
+---
+title:  Software Testing Career Development
+---
 
 > "One's education is never complete. A missed opportunity doesn't preclude the possibility of new opportunities, or even better ones."
 >

@@ -1,4 +1,6 @@
-# Public Speaking
+---
+title:  Public Speaking
+---
 
 The biggest tip I can give to someone who wants to get better at public speaking would be to join a local Toastmasters Club: it helped me considerably during my couple of years of attending.
 
