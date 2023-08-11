@@ -1,4 +1,6 @@
-# Software Project Management
+---
+title:  Software Project Management
+---
 
 <nav>
   <h4>Table of Contents</h4>

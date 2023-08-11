@@ -1,4 +1,6 @@
-# Personal Productivity
+---
+title: Personal Productivity
+---
 
 > "Personal productivity presents itself as an antidote to busyness when it might better be understood as yet another form of busyness. And as such, it serves the same psychological role that busyness has always served: to keep us sufficiently distracted that we don't have to ask ourselves potentially terrifying questions about how we are spending our days."\
 >

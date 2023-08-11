@@ -1,4 +1,6 @@
-# Testing Pyramids & Ice-Cream Cones
+---
+title:  Testing Pyramids & Ice-Cream Cones
+---
 
 I like using the software testing pyramid as a visual way to represent where you should be focusing your testing effort, and often switch between using a cloud or an [Eye of Providence](http://en.wikipedia.org/wiki/Eye_of_Providence) to represent human manual exploratory testing at the top of the pyramid that you should use to supplement and test your automated tests.
 

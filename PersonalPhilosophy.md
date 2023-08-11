@@ -1,4 +1,6 @@
-# Philosophy
+---
+title: Philosophy
+---
 
 <nav>
   <h4>Table of Contents</h4>

@@ -1,4 +1,6 @@
-# Automatically checking for browser console errors using Playwright
+---
+title: Automatically checking for browser console errors using Playwright
+---
 
 I like using automated end to end tests to check for browser console errors whenever they're running as I've found this useful in discovering unexpected bugs across web apps I have worked on.
 

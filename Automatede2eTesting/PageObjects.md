@@ -1,3 +1,7 @@
+---
+title: Page Object Pattern
+---
+
 The page object pattern is a classic pattern to model application state (pages) and things you do (or an automated test tool does) to them.
 
 There's often [negativity](https://www.fastcompany.com/3052222/hit-the-ground-running/the-problem-with-best-practices) towards _best practices_, but I can confidently say that **page objects _are_ a best practice** for test automation of UI systems, which isn't saying they will be exactly the same in every context, but there's a common best practice pattern there which you can use.

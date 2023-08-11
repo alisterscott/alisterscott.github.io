@@ -1,3 +1,7 @@
+---
+title:  Security
+---
+
 ## Computer Security
 
 _I am not a computer security expert but there's some basic computer security essentials that a surprising number of people don't understand. The aim of this doco is to raise awareness of this information._
