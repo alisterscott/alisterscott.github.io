@@ -10,5 +10,3 @@ header_pages:
 author:
   name: Alister Scott
   email: "alister.scott@gmail.com"
-plugins:
-  - jekyll-feed
