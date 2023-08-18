@@ -1,4 +1,3 @@
-
 ---
 title: Automatically Capturing Browser Client Side Performance Logs with Playwright
 ---
