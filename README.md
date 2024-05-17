@@ -4,6 +4,8 @@
 
 ![watermelon](/media/watermelon.png)
 
+# See my new blog at [Substack](https://alisterscott.substack.com/)
+
 ## Content
 
 1. Automated e2e Testing
