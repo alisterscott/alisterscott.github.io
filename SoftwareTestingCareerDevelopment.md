@@ -48,10 +48,10 @@ The *Concepts* pillar is all about *the concepts and theories behind software
 
 ## Tools/Technology
 
-This pillar is essentially *the tools required enable the 'Concepts' above*. These are different from concepts in that while most concepts are timeless, the tools or technologies tend to change. You can start focusing on developing skills in using open source tools. I find these are good in that they are open and free ( [as in speech](http://en.wikipedia.org/wiki/Free_as_in_beer) ). Some tools I know and/or use are:
+This pillar is essentially *the tools required enable the 'Concepts' above*. These are different from concepts in that while most concepts are timeless, the tools or technologies tend to change. You can start focusing on developing skills in using open source tools. I find these are good in that they are open and free to use. Some tools I know and/or use are:
 
-- **Programming Languages:** such as JavaScript, Ruby, Python, C#.
-- **Testing Tools:** such as Selenium and Puppeteer
+- **Programming Languages:** such as TypeScript, Ruby, Python, C#.
+- **Testing Tools:** such as Playwright
 - **Collaboration Tools:** such as wiki's, defect management, blogs.
 - **Versioning Tools:** such as Git, GitHub, Bitbucket.
 - **Web based development technology:** Single Page Apps, Microservices.
@@ -63,9 +63,9 @@ It is important to understand the business of where you work, as well as the app
 - **Understanding business goals:** why I am employed in the first place.
 - **Understanding business applications:** what they do and how they fit into the business processes.
 - **Understanding business processes:** how business is conducted, with or without IT.
-- **Understanding how business and IT collaborate and partnership: **Hoping that the tail doesn't [wag the dog](http://en.wikipedia.org/wiki/Wag_the_Dog)!
-- **Providing value to the business: **continuing to be employed.
-- **Keeping up to date with the business: **knowing what the business industry/competition is doing and about the other happenings in the business domain.
+- **Understanding business partnerships** how IT collaborate and partnership.
+- **Providing value to the business:** continuing to be employed.
+- **Keeping up to date with the business:** knowing what the business industry/competition is doing and about the other happenings in the business domain.
 - **Understanding how executive management operates:** because they usually pay you and maybe you would like to be there someday.
 
 ## Conclusion
