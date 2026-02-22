@@ -31,11 +31,11 @@ I know a lot of agile software development teams call their blocks of developmen
 
 You've probably seen [the Mona Lisa analogy](http://www.agileproductdesign.com/blog/dont_know_what_i_want.html) by Jeff Paton that visually tries to show the difference between the two development approaches:
 
-### **Incremental Development:**
+### Incremental Development:
 
 ![incrementing](/media/incrementing.jpg)
 
-### **Iterative Development:**
+### Iterative Development:
 
 ![iterating](/media/iterating.jpg)
 
@@ -63,7 +63,7 @@ Compare the beginnings of the two dominant mobile operating systems. Google went
 
 Both approaches are different but neither are wrong: they highlight the differences between Apple and Google and their approach to developing software.
 
-### **Summary**
+### Summary
 
 _We can't build anything without iterating to some degree_: no code is written perfectly the second that it is typed or committed. Even if it looks like a company is incrementally building their software: they're iteratively building it inside.
 
