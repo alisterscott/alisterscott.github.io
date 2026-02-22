@@ -5,8 +5,6 @@ kramdown:
 remote_theme: jekyll/minima
 minima:
   skin: auto
-header_pages:
-  - README.md
 author:
   name: Alister Scott
   email: "alister.scott@gmail.com"
