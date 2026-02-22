@@ -2,8 +2,6 @@
 title: Quality Advocate
 ---
 
-# QA: Quality Advocate
-
 > "Quality is not an act, it is a habit."
 >
 > _Aristotle_
