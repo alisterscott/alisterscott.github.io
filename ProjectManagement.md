@@ -132,8 +132,6 @@ I did some research in writing this post and found Now, Next, Later as a thing [
 
 # Visualising Technical Debt (with the Debt Boat)
 
-- Post author
-
 Being successful in software delivery requires a team to constantly balance technical debt and feature delivery. Teams often fall into the trap of delivering features too rapidly at the expense of ever increasing technical debt, or delivering a over-engineered solution at the expense of not delivering things within reasonable time-frames and before any real world usage.
 
 This is one of the key issues facing most software delivery teams I have worked on as there are often different appetites for delivery vs debt throughout an organisation.
@@ -147,5 +145,3 @@ In the "shipping" theme I came up with the **Debt Boat**: a way to visually repr
 ![](/media/debt-boat-jamboard-example.png)
 
 We originally had this boat on our team's physical wall to show there's only so much technical debt we can take "on board" before we sink.
-
-Now that we're 100% remote (for now) I've created a Jamboard version. I've shared the template [here](https://jamboard.google.com/d/1vVI__ZihWkeYNhAEY9wnFlZdlWjInK8FxMcBcG2XGQo/viewer) -- you can easily make a copy if you think your team would find this helpful.
