@@ -2,7 +2,7 @@
 title: Personal Productivity
 ---
 
-> "Personal productivity presents itself as an antidote to busyness when it might better be understood as yet another form of busyness. And as such, it serves the same psychological role that busyness has always served: to keep us sufficiently distracted that we don't have to ask ourselves potentially terrifying questions about how we are spending our days."\
+> "Personal productivity presents itself as an antidote to busyness when it might better be understood as yet another form of busyness. And as such, it serves the same psychological role that busyness has always served: to keep us sufficiently distracted that we don't have to ask ourselves potentially terrifying questions about how we are spending our days."
 >
 > _Oliver Burkman [#](https://www.theguardian.com/technology/2016/dec/22/why-time-management-is-ruining-our-lives)_
 
