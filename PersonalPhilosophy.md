@@ -14,7 +14,7 @@ title: Philosophy
 
 > **"Always do your best.** Your best is going to change from moment to moment; it will be different when you are healthy as opposed to sick. Under any circumstance, simply do your best, and you will avoid self-judgement, self-abuse and regret."
 >
-> `The fourth of the four agreements [#](http://www.toltecspirit.com/)`
+> `The fourth of the four agreements` [#](http://www.toltecspirit.com/)
 
 ## Goals vs Systems
 
@@ -36,7 +36,7 @@ Scott Adams wrote about the importance of Systems over Goals (he's went a bit cr
 
 > "The root cause of the impostor syndrome is a hugely unhelpful picture of what other people are really like. We feel like impostors not because we are uniquely flawed, but because we fail to imagine how deeply flawed everyone else must also be beneath a more-or-less polished surface."
 >
-> `School of Life [#](https://www.theschooloflife.com/shop/tsol-press-a-job-to-love/)`
+> `School of Life` [#](https://www.theschooloflife.com/shop/tsol-press-a-job-to-love/)
 
 ## Perspective
 
@@ -54,7 +54,7 @@ Scott Adams wrote about the importance of Systems over Goals (he's went a bit cr
 
 > "It wasn't until I committed to traveling a journey of intentional self growth that I discovered where life is really lived---in the mundane. Life is lived in those in-between moments we often hurry past. It's in the car rides to school, standing in the grocery line with your son, reading to your kids before bed time, or clearing off the dinner table as a family."
 >
-> `Eric Ungs [#](https://www.becomingminimalist.com/?s=5+simple+ways+abundant)`
+> `Eric Ungs` [#](https://www.becomingminimalist.com/?s=5+simple+ways+abundant)
 
 ---
 
@@ -74,7 +74,7 @@ Scott Adams wrote about the importance of Systems over Goals (he's went a bit cr
 >
 > Those watching television also had their broadcasts interrupted by the ballistic missile threat alert, according to NBC."
 >
-> _A true story -- some perspective for when you feel bad about your production bug [#](https://www.abc.net.au/news/2018-01-14/hawaii-missile-threat-for-38-mins-they-thought-world-was-ending/9327692)_
+> `A true story -- some perspective for when you feel bad about your production bug` [#](https://www.abc.net.au/news/2018-01-14/hawaii-missile-threat-for-38-mins-they-thought-world-was-ending/9327692)
 
 ## Quotes
 
