@@ -2,6 +2,8 @@
 title: Parallel Execution
 ---
 
+## Background
+
 One of the best ways to speed up your end-to-end (e2e) tests is to start running them in parallel.
 
 The main issue I see that prevents teams from fully using parallelism for their e2e tests is lack of test design. Without adequately designed e2e tests -- which have been designed to be run in parallel -- parallelism can introduce non-deterministic and inconsistent test results -- leading to frustration and low-confidence in the e2e tests.
@@ -25,4 +27,14 @@ With appropriate e2e test design you can write the e2e test to be consistent whe
 2.  The pending email list has a data attribute on each invite clearly identifying which email the invite is for and this is used to verify pending email status; and
 3.  The inbox is filtered by the expected GUID, and only those emails are used. Etc.
 
-Once you have good e2e test design in place you're able to look at how to speed up e2e test execution using parallelism. I'll cover how to do this in my next blog post.
+Once you have good e2e test design in place you're able to look at how to speed up e2e test execution using parallelism. 
+
+## Optimising Playwright Workers
+
+Playwright defaults to only using 50% of possible workers when running tests. You can specify `100%` as a value to use all workers available.
+
+```
+  workers: '100%',
+```
+
+`playwright.config.ts`
