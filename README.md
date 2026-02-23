@@ -15,7 +15,7 @@
    6. [Example Repositories](/Automatede2eTesting/ExampleRepos.md)
    7. [All Things Testing Brisbane Meetup Presentation](/Automatede2eTesting/AllThingsTestingBrisbaneMeetup.md)
    8. [Automatically Checking for Browser Console Errors with Playwright](/Automatede2eTesting/AutomaticallyCheckingForPlaywrightConsoleErrors.md)
-   9. [Automatically Capturing Browser Client Side Performance Logs with Playwright](/Automatede2eTesting/performanceLogs.md) 🆕
+   9. [Automatically Capturing Browser Client Side Performance Logs with Playwright](/Automatede2eTesting/performanceLogs.md)
 2. [Code Coverage](/CodeCoverage.md)
 3. [Computer Security Tips](/ComputerSecurity.md)
 4. [Leadership](/Leadership.md)
