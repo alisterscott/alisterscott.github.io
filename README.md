@@ -9,7 +9,7 @@
 1. Automated e2e Testing
    1. [Approval Testing](/Automatede2eTesting//ApprovalTesting.md)
    2. [Page Objects](/Automatede2eTesting//PageObjects.md)
-   3. [Parallel Execution](/Automatede2eTesting//ParallelExecution.md)
+   3. [Parallel Execution & Playwright Workers](/Automatede2eTesting//ParallelExecution.md)
    4. [Separate or Same Code Repository](/Automatede2eTesting//SameCodeRepository.md)
    5. [Specification by Example: a Love Story](/Automatede2eTesting//SpecificationByExample.md)
    6. [Example Repositories](/Automatede2eTesting/ExampleRepos.md)
