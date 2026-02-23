@@ -2,7 +2,7 @@
 title: Using Playwright on Github Codespaces
 ---
 
-# Background
+## Background
 
 It's possible to run Playwright on [Github Codespaces](https://github.com/features/codespaces) using the in-built VNC client in the docker image to inspect elements and record tests.
 
