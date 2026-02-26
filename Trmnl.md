@@ -10,7 +10,7 @@ I am a big fan of [TRMNL](https://trmnl.com/) e-ink devices:
 
 I have authored a number of open-source plugins for these devices:
 
-1. TRMNL Brisbane Bin Collection Calendar: [src](https://github.com/alisterscott/trmnl-bne-bin)
+1. TRMNL Brisbane Bin Collection Calendar: [src](https://github.com/alisterscott/trmnl-bne-bin) [install](https://trmnl.com/recipes/240601)
 2. TRMNL International Flip Date Clock [src](https://github.com/alisterscott/trmnl-flip-date) [install](https://trmnl.com/recipes/247379)
 3. TRMNL Simplenote [src](https://github.com/alisterscott/trmnl-simplenote) [install](https://trmnl.com/recipes/236882)
 4. TRMNL Translink [src](https://github.com/alisterscott/trmnl-translink) [install](https://trmnl.com/recipes/233040)
@@ -21,7 +21,7 @@ I have authored a number of open-source plugins for these devices:
 
 I created a template repository that makes it simple to get up and running on a new plugin, it specifies all the dependencies and even runs on a Github Codespaces instance with a few clicks. It also includes a Playwright example test that makes it easy to test your plugin which is useful when you have different user options and state that you wish to test via `trmnlp`.
 
-The template repository is hosted here: https://github.com/alisterscott/trmnl-template
+The template repository is hosted here: (https://github.com/alisterscott/trmnl-template)
 
 
 ## Running `trmnlp` on a Github Codespaces instance
