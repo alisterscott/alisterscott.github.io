@@ -10,7 +10,7 @@ There are two prominent groups responding to this dust storm. At one end are the
 
 At the other are the zealots: enthusiasts who can't get enough, who know every model and proclaim it the greatest thing ever; they think they "have all the skills"[^4].
 
-This isn't our first rodeo. When the Mellotron, an early keyboard that played pre-recorded tape loops of real instruments—gained popularity, it terrified traditional orchestral players. In 1967, when the rock band The Moody Blues tried to feature a Mellotron on a televised program, orchestra musicians panicked that the "lifelike string sounds" would put them out of work. Production ground to a halt until the band secured written permission from the musicians' union to play the keyboard.
+This isn't our first rodeo. When the Mellotron, an early keyboard that played pre-recorded tape loops of real instruments, gained popularity, it terrified traditional orchestral players. In 1967, when the rock band The Moody Blues tried to feature a Mellotron on a televised program, orchestra musicians panicked that the "lifelike string sounds" would put them out of work. Production ground to a halt until the band secured written permission from the musicians' union to play the keyboard.
 
 The mistake the doomers make is not recognising that Ai serves different purposes; we have more agency over its use than the headlines suggest. The mistake the zealots make is assuming Ai has taste when it does not.
 
