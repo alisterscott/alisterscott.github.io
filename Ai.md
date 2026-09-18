@@ -34,7 +34,7 @@ I've [written](SoftwareTestingCareerDevelopment.md) about the importance of T‑
 
 ## Exercise your right brain
 
-Draw. Write a short, funny story. Make a joke. These are areas where Ai still struggles. Cultivate taste and creativity.
+Draw. Write a short, funny story. Make a joke. These are areas where Ai struggles. Cultivate taste and creativity.
 
 ## You don't need to be an Ai expert
 
