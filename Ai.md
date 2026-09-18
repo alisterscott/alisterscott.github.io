@@ -52,7 +52,7 @@ Models are improving at left‑brain tasks and at understanding instructional in
 
 ---
 
-[^1]: https://en.wikipedia.org/wiki/Tuckman%27s_stages_of_group_development — In this context the "group" is society as a collection of individuals affected by Ai.
+[^1]: [Tuckman's stages of group development](https://en.wikipedia.org/wiki/Tuckman%27s_stages_of_group_development) — In this context the "group" is society as a collection of individuals affected by Ai.
 
 [^2]: Ai with a lowercase "i." My name is Alister (you can call me Al), which can look like the letters "AI" in some fonts; I use "Ai" to avoid that ambiguity and because I prefer this styling.
 
@@ -62,10 +62,10 @@ Models are improving at left‑brain tasks and at understanding instructional in
 
 [^5]: These terms are commonly used in Ai generated articles.
 
-[^6]: Example: a YouTuber documenting their experience — https://youtu.be/GvKy1jXIBVs
+[^6]: Example: a YouTuber documenting their experience — [YouTube video](https://youtu.be/GvKy1jXIBVs)
 
-[^7]: Tech companies are blaming massive layoffs on AI — The University of Sydney (17 March 2026). The timing and framing of layoffs attributed to Ai warrants closer examination: corporate restructuring, post‑pandemic over‑hiring, and investor pressure are all factors alongside genuine AI advances. https://www.sydney.edu.au/news-opinion/news/2026/03/17/tech-companies-are-blaming-massive-layoffs-on-ai.html
+[^7]: [Tech companies are blaming massive layoffs on AI — The University of Sydney (17 March 2026)](https://www.sydney.edu.au/news-opinion/news/2026/03/17/tech-companies-are-blaming-massive-layoffs-on-ai.html) — The timing and framing of layoffs attributed to Ai warrants closer examination: corporate restructuring, post‑pandemic over‑hiring, and investor pressure are all factors alongside genuine AI advances.
 
-[^8]: https://en.wikipedia.org/wiki/T-shaped_skills
+[^8]: [T‑shaped skills (Wikipedia)](https://en.wikipedia.org/wiki/T-shaped_skills)
 
-[^9]: https://x.com/emollick/status/1627804798224580608?lang=en — Ethan Mollick's observation that "prompt engineering" may not remain a distinct specialised role.
+[^9]: [Ethan Mollick — X post](https://x.com/emollick/status/1627804798224580608?lang=en) — Ethan Mollick's observation that "prompt engineering" may not remain a distinct specialised role.
