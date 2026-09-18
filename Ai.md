@@ -2,8 +2,6 @@
 title: The importance of T‑shaped skills in the dust‑storm that is Ai
 ---
 
-# The importance of T‑shaped skills in the dust‑storm that is Ai
-
 I've found that rapid changes to how things work together often follow Bruce Tuckman's four stages of group development: forming, storming, norming, performing[^1]. Ai[^2] is no different — Generative Ai has been progressing rapidly, and I feel like we're in the storming stage.
 
 It's not a rainstorm; rain can be cleansing. Ai is more like a dust storm: it dirties everything and gets into places you didn't know existed.
@@ -51,8 +49,9 @@ Models are improving at left‑brain tasks and at understanding instructional in
 - **Why it matters:** Ai amplifies left‑brain, repeatable work; creativity, taste and varied experience remain human differentiators.
 - **Actionable:** Build broad skills, practice creative right‑brain work, and lean on Ai for depth when needed.
 
-[^
-1]: https://en.wikipedia.org/wiki/Tuckman%27s_stages_of_group_development — In this context the "group" is society as a collection of individuals affected by Ai.
+---
+
+[^1]: https://en.wikipedia.org/wiki/Tuckman%27s_stages_of_group_development — In this context the "group" is society as a collection of individuals affected by Ai.
 
 [^2]: Ai with a lowercase "i." My name is Alister (you can call me Al), which can look like the letters "AI" in some fonts; I use "Ai" to avoid that ambiguity and because I prefer this styling.
 
