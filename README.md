@@ -17,7 +17,7 @@
    8. [Separate or Same Code Repository](/Automatede2eTesting//SameCodeRepository.md)
    9. [Specification by Example: a Love Story](/Automatede2eTesting//SpecificationByExample.md)
    10. [Using Playwright in Github Codespaces](/Automatede2eTesting/CodespacesPlaywright.md)
-   11. [Reverse Gherkin 🥒](/ReverseGherkin.md) 🆕
+   11. [Reverse Gherkin 🥒](/ReverseGherkin.md) 
 2. [Code Coverage](/CodeCoverage.md)
 3. [Computer Security Tips](/ComputerSecurity.md)
 4. [Leadership](/Leadership.md)
@@ -30,4 +30,5 @@
 11. [Software Testing Career Development](/SoftwareTestingCareerDevelopment.md)
 12. [Testing Pyramids & Ice Cream Cones](/TestingPyramids.md)
 13. [Test Strategies](/TestStrategies.md)
-14. [TRMNL Plugins](/Trmnl.md) 🆕
+14. [TRMNL Plugins](/Trmnl.md) 
+15. [The importance of T‑shaped skills in the dust‑storm that is Ai](/Ai.md) 🆕
