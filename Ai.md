@@ -2,19 +2,21 @@
 title: The importance of T‑shaped skills in the dust‑storm that is Ai
 ---
 
-I've found that rapid changes to how things work together often follow Bruce Tuckman's four stages of group development: forming, storming, norming, performing[^1]. Ai[^2] is no different — Generative Ai has been progressing rapidly, and I feel like we're in the storming stage.
+I've found that rapid changes to how things work together often follow Bruce Tuckman's four stages of group development: forming, storming, norming, performing[^1]. Ai[^2] is no different. Generative Ai has been progressing rapidly, and I feel like we're in the storming stage.
 
 It's not a rainstorm; rain can be cleansing. Ai is more like a dust storm[^3]: it dirties everything and gets into places you didn't know existed.
 
-There are two prominent groups responding to this dust storm. At one end are the doomers — vocal critics who warn "Ai will take our jobs" or "It is going to kill us all." At the other are the zealots — enthusiasts who can't get enough, who know every model and proclaim it the greatest thing ever; they think they "have all the skills"[^4].
+There are two prominent groups responding to this dust storm. At one end are the doomers: vocal critics who warn "Ai will take our jobs" or "It is going to kill us all." 
 
-This isn't our first rodeo. When the Mellotron—an early keyboard that played pre-recorded tape loops of real instruments—gained popularity, it terrified traditional orchestral players. In 1967, when the rock band The Moody Blues tried to feature a Mellotron on a televised program, orchestra musicians panicked that the "lifelike string sounds" would put them out of work. Production ground to a halt until the band secured written permission from the musicians' union to play the keyboard.
+At the other are the zealots: enthusiasts who can't get enough, who know every model and proclaim it the greatest thing ever; they think they "have all the skills"[^4].
 
-The mistake the doomers make is not recognising that Ai serves different purposes; we have more agency over its use than the headlines suggest. The mistake the zealots make is assuming Ai has taste — it does not.
+This isn't our first rodeo. When the Mellotron, an early keyboard that played pre-recorded tape loops of real instruments—gained popularity, it terrified traditional orchestral players. In 1967, when the rock band The Moody Blues tried to feature a Mellotron on a televised program, orchestra musicians panicked that the "lifelike string sounds" would put them out of work. Production ground to a halt until the band secured written permission from the musicians' union to play the keyboard.
+
+The mistake the doomers make is not recognising that Ai serves different purposes; we have more agency over its use than the headlines suggest. The mistake the zealots make is assuming Ai has taste when it does not.
 
 I tend to be pragmatic: I'm somewhere in between. I'm aware of Ai's power and wary of its limits. I see it as excellent for some tasks and poor for others. Much of the conversation reduces to "it's not X, it's Y" — a load‑bearing argument that often misses nuance.[^5]
 
-Our cognition has two broad modes: a logical, analytical side and a creative, aesthetic side. Ai is strong at the left‑brain tasks — writing code, designing algorithms, and trawling large datasets for patterns. For right‑brain tasks (subtle creativity and taste), Ai is much less reliable. Yes, those flyers you see everywhere illustrate that point.
+Our cognition has two broad modes: a logical, analytical side and a creative, aesthetic side. Ai is strong at the left‑brain tasks: writing code, designing algorithms, and trawling large datasets for patterns. For right‑brain tasks (subtle creativity and taste), Ai is much less reliable. Yes, those flyers you see everywhere illustrate that point.
 
 ![ai flyer](/media/aiflyer.jpg)
 
@@ -22,9 +24,9 @@ I see many articles and posts with the refrain "Ai took my job"[^6], especially 
 
 1) Some companies attribute mass layoffs to artificial intelligence to deflect from post‑pandemic overhiring and to reassure investors. Admitting to overhiring signals poor management; blaming Ai reframes cuts as forward‑looking efficiency. The available evidence suggests that only a small fraction of layoffs are directly caused by immediate Ai replacement[^7].
 
-2) Other layoffs affect specialised, routine roles that require less creative judgment — for example, a Ruby on Rails developer who relies on a single stack and lacks broader delivery fundamentals.
+2) Other layoffs affect specialised, routine roles that require less creative judgment; for example, a Ruby on Rails developer who relies on a single stack and lacks broader delivery fundamentals.
 
-Imagine every company replaced every employee with Ai agents using the same off‑the‑shelf models: how would any company keep a competitive edge? Everyone would be the same — much like every generic flyer looking identical.
+Imagine every company replaced every employee with Ai agents using the same off‑the‑shelf models: how would any company keep a competitive edge? Everyone would be the same, much like every generic flyer looking identical.
 
 So how do you survive this Ai dust storm?
 
@@ -38,11 +40,11 @@ Draw. Write a short, funny story. Make a joke. These are areas where Ai struggle
 
 ## You don't need to be an Ai expert
 
-There will be people in your networks who follow the latest models and tools — use them as resources rather than trying to become the lone expert.
+There will be people in your networks who follow the latest models and tools: use them as resources rather than trying to become the lone expert.
 
 ## Don't stress about using it
 
-Models are improving at left‑brain tasks and at understanding instructional intent. "Prompt engineering" is becoming less of a specialised trade[^9]; clear, plain instructions usually work. Error rates are dropping.
+Models are improving at left‑brain tasks and at understanding instructional intent. "Prompt engineering" is no longer a thing[^9]; clear, plain instructions usually work. Error rates are dropping.
 
 ## Summary
 
@@ -60,7 +62,7 @@ Models are improving at left‑brain tasks and at understanding instructional in
 
 [^4]: "Ai skills" here refers to modular markdown files (skill.MD) containing names, descriptions, and procedural instructions that teach Ai agents how to perform specific, multi‑step tasks on demand.
 
-[^5]: These terms are commonly used in Ai generated articles.
+[^5]: These terms, and the em-dash, are commonly used in Ai generated articles.
 
 [^6]: Example: a YouTuber documenting their experience — [YouTube video](https://youtu.be/GvKy1jXIBVs)
 
