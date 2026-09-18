@@ -1,6 +1,6 @@
-# ---
+---
 title: The importance of T‑shaped skills in the dust‑storm that is Ai
-# ---
+---
 
 # The importance of T‑shaped skills in the dust‑storm that is Ai
 
